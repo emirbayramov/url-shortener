@@ -3,7 +3,7 @@
 ## Laravel URL shortener
 
 ### To run the project
-```git clone https:// ```
+```git clone https://github.com/emirbayramov/url-shortener.git```
 
 ```cd url-shortener```
 
