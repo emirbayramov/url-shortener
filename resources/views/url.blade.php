@@ -65,9 +65,9 @@
           },
           error: function(err){
               $('.result').html(
-                  '<span class="text-danger">Your url : <span class="text-error">'+
+                  '<span class="text-error">'+
                   err.responseJSON.message+
-                  '</span></span>'
+                  '</span>'
               );
               console.log();
           }
